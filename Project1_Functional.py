@@ -1,4 +1,18 @@
 # Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+# Function Vehicle type and validation for VEHICLE TYPE
+
+
+
 
 def typofveh():
     
